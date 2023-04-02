@@ -1,3 +1,4 @@
+@RetailHomePage
 Feature: Retail Home Page
 
   Scenario: Verify Shop by Department sidebar
